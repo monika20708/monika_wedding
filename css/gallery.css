@@ -1,0 +1,11 @@
+.gallery{
+    width: 25%;
+    height: 300px;
+    background-color: blue;
+    margin: 5px;
+    border:10px;
+}
+.gallery-img{
+    width: 100%;
+    height: 300px;
+}

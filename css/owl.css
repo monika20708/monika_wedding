@@ -1,0 +1,17 @@
+.box{
+    width: 70%; 
+    height: 400px ;
+    /* background-color: aquamarine; */
+    overflow: hiddent !important;
+    margin: 5px;
+    /* background-color: aquamarine; */
+}
+.box img:hover{
+    width: 70% !important;
+    /* height: 400px; */
+    transition: 0.5s all ease-in-out;
+    background-color: aqua;
+}
+.box:hover{
+    /* transform: scale(1.2) ; */
+}
